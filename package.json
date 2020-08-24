@@ -28,6 +28,6 @@
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
     "eslint": "7.5.0",
-    "jest": "26.1.0"
+    "jest": "26.4.2"
   }
 }
