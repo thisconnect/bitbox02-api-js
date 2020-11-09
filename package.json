@@ -27,7 +27,7 @@
   "homepage": "https://github.com/digitalbitbox/bitbox02-api-js#readme",
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
-    "eslint": "7.5.0",
+    "eslint": "7.13.0",
     "jest": "26.1.0"
   }
 }
